@@ -1,4 +1,4 @@
-﻿package epsi.biblio;
+package epsi.biblio;
 
 import java.util.Scanner;
 import java.util.HashMap;
